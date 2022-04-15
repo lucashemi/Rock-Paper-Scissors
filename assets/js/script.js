@@ -123,7 +123,7 @@ function game() {
             break
         case 3 :
             AI.textContent = "Computer ★★★";
-            bang.textContent = "Computer's the Winner!";
+            bang.textContent = "PC's the Winner!";
             break
     }
 }
